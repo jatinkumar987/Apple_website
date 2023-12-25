@@ -1,0 +1,174 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000; /* Set the background color to black */
+    color: #fff; /* Set text color to white */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header img {
+    width: 150px;
+  }
+  
+  main {
+    text-align: center;
+  }
+  
+  .hero {
+    padding: 40px;
+    /* background-color: #f8f8f8; */
+    border-radius: 10px;
+    margin-bottom: 40px;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0070c9;
+    border-radius: 5px;
+  }
+  
+  .tagline {
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .highlight {
+    display: block;
+    font-size: 72px;
+    font-weight: bold;
+    color: #fe9494;
+    margin-bottom: 10px;
+  }
+  /* Add styles for the watch image */
+
+  .image-container {
+    position: relative;
+    overflow: hidden;
+    max-height: auto; /* Set a maximum height for the image container */
+  }
+  
+  /* Add styles for the watch image */
+  .watch-image {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s ease; /* Add a transition for a smooth zoom effect */
+  }
+  
+  
+  /* Add a scrollbar to the body */
+  body {
+    overflow-y: scroll;
+  }
+  
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #0070c9;
+    font-weight: bold;
+  }
+  
+  /* Existing styles */
+
+/* Existing styles */
+
+.features {
+    color: #B57880;
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  }
+  
+  .features h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  .features p {
+    font-size: 48px;
+    line-height: 1.5;
+    text-align: left; /* Align the text to the left */
+  }
+  
+  
+.gallery {
+    position: relative;
+    overflow: hidden;
+  }
+
+ .gallery p{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 15px;
+    margin-left: 600px;
+    text-align: left
+ } 
+  
+  .full-width-image {
+    width: 100%;
+    display: block;
+  }
+  
+  /* Existing styles */
+
+  .gallery2 {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+
+ 
+ 
+  .gallery2 h1 {
+    font-size: 28px; /* Adjust the font size as needed */
+    margin-bottom: 10px;
+    margin-left: 500px;
+   
+    text-align: left;
+  }
+
+
+  .gallery4 p{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 15px;
+    margin-left: 800px;
+    text-align: left
+ } 
